@@ -1,0 +1,9 @@
+asgiref==3.4.1
+beautifulsoup4==4.10.0
+certifi==2021.10.8
+coverage==6.3.1
+Django==4.0.2
+django-bootstrap4==21.2
+django-chartjs==2.3.0
+soupsieve==2.3.1
+sqlparse==0.4.2
